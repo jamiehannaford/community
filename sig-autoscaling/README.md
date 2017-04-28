@@ -1,12 +1,18 @@
-This is the wiki page of Kubernetes Autoscaling SIG: a special interest group for autoscaling related topics. The scope of our SIG includes (but is not limited to):
+# Autoscaling SIG
 
-* autoscaling of clusters,
-* horizontal and vertical autoscaling of pods,
-* setting initial resources for pods,
-* topics related to monitoring pods and gathering their metrics (e.g.: Heapster)
+Covers autoscaling of clusters, horizontal and vertical autoscaling of pods, setting initial resources for pods, topics related to monitoring pods and gathering their metrics (e.g.: Heapster)
 
-[Meeting Notes](https://docs.google.com/document/d/1RvhQAEIrVLHbyNnuaT99-6u9ZUMp7BfkPupT2LAZK7w/edit)
+## Meetings
+- [Thursdays at 15:30 UTC](https://plus.google.com/hangouts/_/google.com/k8s-autoscaling) (biweekly/triweekly)
 
-[Hangout](https://plus.google.com/hangouts/_/google.com/k8s-autoscaling)
+Meeting notes and Agenda can be found [here](https://docs.google.com/document/d/1RvhQAEIrVLHbyNnuaT99-6u9ZUMp7BfkPupT2LAZK7w/edit).
 
-Mailing list: kubernetes-sig-autoscaling@googlegroups.com
+## Leads
+- [Filip Grządkowski](https://github.com/fgrzadkowski), Google
+- [Solly Ross](https://github.com/directxman12), Red Hat
+
+## Contact
+Slack: https://kubernetes.slack.com/messages/sig-autoscaling
+Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-autoscaling
+
+

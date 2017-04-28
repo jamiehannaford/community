@@ -1,16 +1,18 @@
-This is a SIG focused on Federation of Kubernetes Clusters ("Ubernetes") and related topics.  This includes:
+# Federation SIG
 
-* Application resiliency against availability zone outages
-* Hybrid clouds
-* Spanning of multiple could providers
-* Application migration from private to public clouds (and vice versa)
-* ... and other similar subjects.
+Covers the Federation of Kubernetes Clusters (&#34;Ubernetes&#34;) and related topics. This includes: application resiliency against availability zone outages; hybrid clouds; spanning of multiple could providers; application migration from private to public clouds (and vice versa); and other similar subjects.
 
-## Meetings:
-* Bi-weekly on Mondays @ 9am [America/Los_Angeles](http://time.is/Los_Angeles) (check [the calendar](https://calendar.google.com/calendar/embed?src=cgnt364vd8s86hr2phapfjc6uk%40group.calendar.google.com&ctz=America/Los_Angeles))
-* Hangouts link: <https://plus.google.com/hangouts/_/google.com/ubernetes>
-* [Working Group Notes](https://docs.google.com/document/d/18mk62nOXE_MCSSnb4yJD_8UadtzJrYyJxFwbrgabHe8/edit)
+## Meetings
+- [Mondays at 16:00 UTC](https://plus.google.com/hangouts/_/google.com/ubernetes) (biweekly)
 
-## Communication:
-* Slack: <https://kubernetes.slack.com/messages/sig-federation> ([archive](http://kubernetes.slackarchive.io/sig-federation))
-* Google Group: <https://groups.google.com/forum/#!forum/kubernetes-sig-federation>
+Meeting notes and Agenda can be found [here](https://docs.google.com/document/d/18mk62nOXE_MCSSnb4yJD_8UadtzJrYyJxFwbrgabHe8/edit).
+
+## Leads
+- [Christian Bell](https://github.com/csbell), Google
+- [Quinton Hoole](https://github.com/quinton-hoole), Huawei
+
+## Contact
+Slack: https://kubernetes.slack.com/messages/sig-federation
+Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-federation
+
+

@@ -1,19 +1,20 @@
-# SIG Service Catalog
+# Service Catalog SIG
 
-**Leads:** Paul Morie (@pmorie, Red Hat), Aaron Schlesinger (@arschles, Deis), Brendan Melville (@bmelville, Google), Doug Davis (@duglin, IBM)
+To develop a Kubernetes API for the CNCF service broker and Kubernetes broker implementation.
 
-**Slack Channel:** [#sig-service-catalog](https://kubernetes.slack.com/messages/sig-service-catalog/).  [Archive](http://kubernetes.slackarchive.io/sig-service-catalog/)
+## Meetings
+- [Mondays at 20:00 UTC](https://zoom.us/j/7201225346) (weekly)
 
-**Mailing List:** [kubernetes-sig-service-catalog](https://groups.google.com/forum/#!forum/kubernetes-sig-service-catalog)
+Meeting notes and Agenda can be found [here](http://goo.gl/A0m24V).
 
-**Meetings:** [Mondays, 4pm Eastern / 1pm Pacific time](https://zoom.us/j/7201225346)
+## Leads
+- [Paul Morie](https://github.com/pmorie), Red Hat
+- [Aaron Schlesinger](https://github.com/arschles), Deis
+- [Brendan Melville](https://github.com/bmelville), Google
+- [Doug Davis](https://github.com/duglin), IBM
 
-[**Meeting Agenda**](http://goo.gl/A0m24V)
+## Contact
+Slack: https://kubernetes.slack.com/messages/sig-service-catalog
+Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-service-catalog
 
-[**Meeting Video Playlist**](https://goo.gl/ZmLNX9)
 
-### SIG Mission
-
-Mission: to develop a Kubernetes API for the CNCF service broker and Kubernetes broker implementation.
-
-Incubator repo at [https://github.com/kubernetes-incubator/service-catalog](https://github.com/kubernetes-incubator/service-catalog).

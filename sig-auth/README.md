@@ -1,24 +1,19 @@
-Kubernetes SIG-Auth
-Kubernetes Special Interest Group for Authentication and Authorization
+# Auth SIG
 
+Covers improvements to Kubernetes authorization, authentication, and cluster security policy.
 
-Goals for this SIG:
-Discuss improvements Kubernetes Authorization and Authentication, and cluster security policy.
-Not in scope for this SIG:
-To report specific vulnerabilities in Kubernetes, please report using these instructions: http://kubernetes.io/v1.1/docs/reporting-security-issues.html
+## Meetings
+- [Wednesdays at 18:00 UTC](https://zoom.us/my/k8s.sig.auth) (biweekly)
 
-General discussion of Linux security, or of containers is better directed to a non-Kubernetes mailing list.
+Meeting notes and Agenda can be found [here](https://docs.google.com/document/d/1woLGRoONE3EBVx-wTb4pvp4CI7tmLZ6lS26VTbosLKM/edit#).
 
-Proactive or general security discussion about Kubelet should go to kubernetes-sig-node@googlegroups.com.
+## Leads
+- [Eric Chiang](https://github.com/ericchiang), CoreOS
+- [Jordan Liggitt](https://github.com/liggitt), Red Hat
+- [David Eads](https://github.com/deads2k), Red Hat
 
-Proactive or general security discussion about the API server should go to kubernetes-sig-api-machinery@googlegroups.com.   
+## Contact
+Slack: https://kubernetes.slack.com/messages/sig-auth
+Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-auth
+GitHub Team: https://github.com/kubernetes/teams/sig-auth
 
-
-
-Links/info:
-* Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-auth
-* Github team: https://github.com/orgs/kubernetes/teams/sig-auth (Use ‘@kubernetes/sig-auth’ on github to notify team members.)
-* Slack channel: https://kubernetes.slack.com/messages/sig-auth/
-* Meeting frequency & time:  Biweekly on Wednesdays, 11am Pacific (see agenda for which Wednesdays)
-* Agenda & meeting notes: https://docs.google.com/document/d/1woLGRoONE3EBVx-wTb4pvp4CI7tmLZ6lS26VTbosLKM/edit#
-* Hangout link: [https://zoom.us/my/k8s.sig.auth](https://zoom.us/my/k8s.sig.auth)

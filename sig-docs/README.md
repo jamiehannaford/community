@@ -1,23 +1,19 @@
-# SIG Docs
+# Docs SIG
 
-A Special Interest Group for documentation, doc processes, and doc publishing for Kubernetes.
+Covers documentation, doc processes, and doc publishing for Kubernetes.
 
-## Meeting:
-* Meetings: Tuesdays @ 10:30AM PST
-* Zoom Link: https://zoom.us/j/678394311
-* Check out the [Agenda and Minutes](https://docs.google.com/document/d/1Ds87eRiNZeXwRBEbFr6Z7ukjbTow5RQcNZLaSvWWQsE/edit)
+## Meetings
+- [Tuesdays at 17:30 UTC](https://zoom.us/j/678394311) (biweekly)
 
-## Comms:
-* Slack: [kubernetes.slack.com #sig-docs](https://kubernetes.slack.com/messages/sig-docs/)
-* Google Group: [kubernetes-sig-docs@googlegroups.com](https://groups.google.com/forum/#!forum/kubernetes-sig-docs)
+Meeting notes and Agenda can be found [here](https://docs.google.com/document/d/1Ds87eRiNZeXwRBEbFr6Z7ukjbTow5RQcNZLaSvWWQsE/edit).
 
-## Goals:
-* Discuss documentation and docs issues for kubernetes.io
-* Plan docs releases for kubernetes
-* Suggest improvements to user onboarding through better documentation on Kubernetes.io
-* Identify and implement ways to get documentation feedback and metrics
-* Help community contributors get involved in kubernetes documentation
+## Leads
+- [Philip Wittrock](https://github.com/pwittrock), Google
+- [Devin Donnelly](https://github.com/devin-donnelly), Google
+- [Jared Bhatti](https://github.com/jaredbhatti), Google
 
-## Organizers:
-* Devin Donnelly <ddonnelly@google.com>, Google
-* Jared Bhatti <jaredb@google.com>, Google
+## Contact
+Slack: https://kubernetes.slack.com/messages/sig-docs
+Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-docs
+
+

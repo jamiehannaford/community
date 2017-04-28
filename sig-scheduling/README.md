@@ -1,20 +1,18 @@
-# sig-scheduling
+# Scheduling SIG
 
-## Organizers
-
-- [David Oppenheimer](https://github.com/davidopp) / Google
-- [Tim St. Clair](https://github.com/timothysc) / RedHat
 
 ## Meetings
+- [Mondays at 20:00 UTC](https://zoom.us/zoomconference?m=rN2RrBUYxXgXY4EMiWWgQP6Vslgcsn86) (biweekly)
+- [Wednesdays at 07:30 UTC](https://zoom.us/zoomconference?m=rN2RrBUYxXgXY4EMiWWgQP6Vslgcsn86) (biweekly)
 
-- [Meeting agenda](https://docs.google.com/document/d/13mwye7nvrmV11q9_Eg77z-1w3X7Q1GTbslpml4J7F3A/edit)  
-  Add your topics here. This doc lists regular meeting times and contact details
-  for joining the video conference. _NOTE: Since meetings are occasionally
-  canceled due to lack of content, if you have topics to discuss please also
-  write a message to the list._
-- [Meeting link](https://zoom.us/zoomconference?m=rN2RrBUYxXgXY4EMiWWgQP6Vslgcsn86)
+Meeting notes and Agenda can be found [here](https://docs.google.com/document/d/13mwye7nvrmV11q9_Eg77z-1w3X7Q1GTbslpml4J7F3A/edit).
 
-## Communication
+## Leads
+- [David Oppenheimer](https://github.com/davidopp), Google
+- [Timothy St. Clair](https://github.com/timothysc), Red Hat
 
-- [Slack](https://kubernetes.slack.com/messages/sig-scheduling) ([archive](http://kubernetes.slackarchive.io/sig-scheduling))
-- [Google Group](https://groups.google.com/forum/#!forum/kubernetes-sig-scheduling)
+## Contact
+Slack: https://kubernetes.slack.com/messages/sig-scheduling
+Mailing list: https://groups.google.com/forum/#!forum/kubernetes-sig-scheduling
+
+
